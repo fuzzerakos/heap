@@ -1,1 +1,1 @@
-# Exploits for heap related pwnable challenges.
+Exploits for heap related pwnable challenges.
